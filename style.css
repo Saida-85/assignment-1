@@ -66,7 +66,6 @@ learned while doing src:(w3school and youtube) */
     top: 14%;
     color: white;
     text-align: center;
-
 }
 
 .banner-text h2 {
@@ -84,6 +83,7 @@ learned while doing src:(w3school and youtube) */
 }
 
 .banner-text button {
+
     font-size: 30px;
     margin-top: 500px;
     gap: 12px;
@@ -101,37 +101,46 @@ learned while doing src:(w3school and youtube) */
     padding: 80px;
     text-align: center;
 }
-.speakers-parent h1{
+
+.speakers-parent h1 {
     font-family: "Open Sans", sans-serif;
     font-size: 50px;
     font-weight: bold;
 }
-.speakers-card-container{
+
+.speakers-card-container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 30px;
     margin-top: 60px;
 }
-.card-item{
+
+.card-item {
     text-align: left;
     border: 1px solid #E5E7EB;
     border-radius: 12px;
-    overflow: hidden; 
+    overflow: hidden;
 }
-.card-item img{
+
+.card-item img {
     width: 100%;
     display: block;
 }
-.card-item p{
+
+.card-item p {
     text-align: left;
     padding: 0 20px;
     color: #575757;
 }
-.card-item h2{
+
+.card-item h2 {
     text-align: left;
     padding: 0 20px;
 }
-.card-item .blue-p{
+
+.card-item .blue-p {
     color: #1d4ed8;
     font-weight: bold;
 }
+
+/* Meet speakers section End here */
