@@ -42,7 +42,11 @@ devconf-2026/
 ```
 
 ---
+**Live Link:**
+```bash
+https://saida-85.github.io/assignment-1/
 
+```
 ## 🚀 How to Run Locally
 
 1. **Clone the repository:**
@@ -52,12 +56,12 @@ git clone https://github.com/Saida-85/assignment-1.git
 ```
 
 
-2. **Navigate to the directory:**
+
+3. **Navigate to the directory:**
 ```bash
 cd devconf-2026-landing-page
 
 ```
-
 
 3. **Open the project:**
 Double-click `index.html` or run it using **Live Server** in VS Code.
