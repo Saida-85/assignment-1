@@ -3,6 +3,12 @@
 A modern, responsive, and feature-rich landing page for **DevConf 2026**—a premier technology and developer conference bringing together over 4,000 engineers, founders, and tech builders. Designed with clean semantic HTML5 and styled with custom CSS, external typography, and vector icon kits.
 
 ---
+## 🚀 Live Demo
+
+Experience the project here:
+
+### **🔗 [DevConf 2026 Landing Page](https://saida-85.github.io/assignment-1/)**
+---
 
 ## 🌟 Key Features
 
@@ -40,11 +46,6 @@ devconf-2026/
 └── README.md
 
 ```
-
----
-**Live Link:**
-```bash
-https://saida-85.github.io/assignment-1/
 
 ```
 ## 🚀 How to Run Locally
